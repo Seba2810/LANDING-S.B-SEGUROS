@@ -1,0 +1,31 @@
+<section class="hero">
+  <h1>Cotizá Tu Seguro en Un Click</h1>
+  <p>Elegí entre nuestras opciones y obtené la mejor cobertura para vos.</p>
+  <div class="product-grid">
+    <!-- Automotor -->
+    <div class="product-card" onclick="location.href='#automotor'">
+      <img src="ruta-a-icono-automotor.png" alt="Automotor">
+      <span>AUTOMOTOR</span>
+    </div>
+    <!-- Moto -->
+    <div class="product-card" onclick="location.href='#moto'">
+      <img src="ruta-a-icono-moto.png" alt="Moto">
+      <span>MOTO</span>
+    </div>
+    <!-- Hogar -->
+    <div class="product-card" onclick="location.href='#hogar'">
+      <img src="ruta-a-icono-hogar.png" alt="Hogar">
+      <span>HOGAR</span>
+    </div>
+    <!-- Accidentes Personales (Inncome) -->
+    <div class="product-card" onclick="location.href='#accidentes'">
+      <img src="ruta-a-icono-accidentes.png" alt="Accidentes Personales">
+      <span>ACCIDENTES PERSONALES</span>
+    </div>
+    <!-- Vida Sepelio -->
+    <div class="product-card" onclick="location.href='#vida-sepelio'">
+      <img src="ruta-a-icono-vida.png" alt="Vida Sepelio">
+      <span>VIDA SEPELIO</span>
+    </div>
+  </div>
+</section>
